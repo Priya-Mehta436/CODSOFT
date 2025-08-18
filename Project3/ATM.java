@@ -43,8 +43,6 @@ public class ATM {
                     break;
 
                 case 4:
-                    System.out.println("\n Thank you for using Java ATM!");
-                    System.out.println("================================");
                     break;
 
                 default:
